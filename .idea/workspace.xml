@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80acaa59-94ec-45a5-9786-2078ec4ed568" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Bean</find>
+      <find>gson</find>
+      <find>Test</find>
+      <find>_serverCertificate</find>
+      <find>modelProvider</find>
+      <find>registrationService</find>
+      <find>EditableSecurityStore</find>
+      <find>LeshanServer</find>
+      <find>LwM2mServer</find>
+      <find>hudson</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/WebConfig.java" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/SpringbootLeshanServerDemo.java" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/WebConfig.java" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java" />
+        <option value="$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo/DiscoveryServerApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="discovery-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="discovery-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leshan - bootstrap server demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leshan - bootstrap server demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1247" />
+    <option name="y" value="-1355" />
+    <option name="width" value="1976" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectId" id="2MYjDCMdnP8Z6khioUvBKSjgP36" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-client-cf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IoT/SpringBootLeshan&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/leshan-server-demo/src/main/resources" />
+      <recent name="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.eclipse.leshan.server.discovery.demo.DiscoveryServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLeshanBootstrapServerDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leshan-bsserver-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.eclipse.leshan.server.bootstrap.demo.SpringbootLeshanBootstrapServerDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-wp 8081 -wh 10.0.0.244 -lh 10.0.0.244 -slh 10.0.0.244 -lp 5680 -slp 5681" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLeshanServerDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leshan-server-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.eclipse.leshan.server.demo.SpringbootLeshanServerDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-wp 8081 -wh 10.0.0.200 -lh 10.0.0.200 -slh 10.0.0.200 -lp 5683 -slp 5684" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80acaa59-94ec-45a5-9786-2078ec4ed568" name="Default Changelist" comment="" />
+      <created>1568266152796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568266152796</updated>
+      <workItem from="1568266156582" duration="19501000" />
+      <workItem from="1568679089589" duration="1950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21451000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1247" y="-1355" width="1976" height="977" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49830508" visible="true" weight="0.2523268" />
+      <window_info id="Structure" order="1" sideWeight="0.5016949" side_tool="true" visible="true" weight="0.2523268" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299435" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.22802483" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/data/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/bootstrap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3867">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="226" column="16" lean-forward="true" selection-start-line="226" selection-start-column="16" selection-end-line="226" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/EventServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="153" column="59" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/SecurityServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="64" column="89" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ObjectSpecServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="40" column="102" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ClientServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/target/classes/application.properties" />
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/target/classes/application.properties" />
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="411" column="68" selection-start-line="411" selection-start-column="50" selection-end-line="411" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/leshan/server/discovery/demo/demo/DemoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/eclipse/leshan/server/discovery/demo/demo/DemoApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/SpringbootLeshanServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="124" column="9" selection-end-line="469" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo/DiscoveryServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="121" column="115" selection-start-line="121" selection-start-column="115" selection-end-line="121" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="138" column="96" selection-start-line="138" selection-start-column="96" selection-end-line="138" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leshan-server-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
