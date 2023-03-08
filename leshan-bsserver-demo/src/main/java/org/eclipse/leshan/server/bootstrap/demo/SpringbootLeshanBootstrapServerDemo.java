@@ -12,9 +12,11 @@ import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletHolder;
 import org.eclipse.jetty.webapp.WebAppContext;
 import org.eclipse.leshan.LwM2m;
+import org.eclipse.leshan.SecurityMode;
 import org.eclipse.leshan.core.model.ObjectLoader;
 import org.eclipse.leshan.core.model.ObjectModel;
 import org.eclipse.leshan.core.model.StaticModel;
+import org.eclipse.leshan.server.bootstrap.BootstrapConfig;
 import org.eclipse.leshan.server.bootstrap.EditableBootstrapConfigStore;
 import org.eclipse.leshan.server.bootstrap.demo.servlet.BootstrapServlet;
 import org.eclipse.leshan.server.bootstrap.demo.servlet.ServerServlet;
@@ -36,6 +38,7 @@ import java.net.BindException;
 import java.net.InetSocketAddress;
 import java.security.PrivateKey;
 import java.security.cert.X509Certificate;
+import java.util.Arrays;
 import java.util.List;
 
 
@@ -235,6 +238,31 @@ public class SpringbootLeshanBootstrapServerDemo {
         builder.setCoapConfig(coapConfig);
 
         _bsServer = builder.build();
+
+        // Create a Bootstrap config.
+        BootstrapConfig config = new BootstrapConfig();
+
+        // delete object /0 and /1
+        config.toDelete = Arrays.asList("/0","/1");
+
+        // write a security instance for LWM2M server.
+        // here we will use the leshan sandbox at : https://leshan.eclipseprojects.io/
+        BootstrapConfig.ServerSecurity dmSecurity = new BootstrapConfig.ServerSecurity();
+        dmSecurity.uri = "coap://localhost:5683";
+        dmSecurity.serverId = 2222;
+        dmSecurity.securityMode = SecurityMode.NO_SEC;
+        config.security.put(1, dmSecurity); // O is reserved for bootstrap server
+
+        // write a server object for LWM2M server
+        BootstrapConfig.ServerConfig dmConfig = new BootstrapConfig.ServerConfig();
+        dmConfig.shortId = dmSecurity.serverId;
+        dmConfig.lifetime = 5*60;
+        config.servers.put(0, dmConfig);
+
+        // Add the config to the store for your device.
+        EditableBootstrapConfigStore configStore = (EditableBootstrapConfigStore) _bsServer.getBoostrapStore();
+        configStore.add("test-device_01", config);
+
         _bsServer.start();
 
         // Now prepare and start jetty

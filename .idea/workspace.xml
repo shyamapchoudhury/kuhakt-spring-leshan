@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80acaa59-94ec-45a5-9786-2078ec4ed568" name="Default Changelist" comment="" />
+    <list default="true" id="80acaa59-94ec-45a5-9786-2078ec4ed568" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/leshan-bsserver-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/leshan-bsserver-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,12 +264,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java</url>
-          <line>92</line>
+          <line>95</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java</url>
-          <line>187</line>
+          <line>190</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

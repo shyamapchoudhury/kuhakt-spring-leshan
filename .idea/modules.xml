@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/discovery-server-demo.iml" filepath="$PROJECT_DIR$/discovery-server-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leshan.iml" filepath="$PROJECT_DIR$/leshan.iml" />
       <module fileurl="file://$PROJECT_DIR$/leshan-bsserver-demo/leshan-bsserver-demo.iml" filepath="$PROJECT_DIR$/leshan-bsserver-demo/leshan-bsserver-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leshan-client-cf/leshan-client-cf.iml" filepath="$PROJECT_DIR$/leshan-client-cf/leshan-client-cf.iml" />

@@ -1,0 +1,35 @@
+{
+  "test-device_01": {
+    "toDelete": [
+      "/0",
+      "/1"
+    ],
+    "servers": {
+      "0": {
+        "shortId": 2222,
+        "lifetime": 300,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "1": {
+        "uri": "coap://localhost:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 2222,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  }
+}
